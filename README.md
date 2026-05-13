@@ -78,8 +78,6 @@ int main() {
 
 
 ## OUTPUT
-$ ./sem.o 
-$ ipcs
 ![alt text](<Screenshot 2026-05-13 093927.png>)
 
 
